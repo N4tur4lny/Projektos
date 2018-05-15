@@ -1,0 +1,9 @@
+C:\Users\Mateusz\C# Projects\Projektos\Projekt_angielski\Projekt_angielski\bin\Debug\Projekt_angielski.exe.config
+C:\Users\Mateusz\C# Projects\Projektos\Projekt_angielski\Projekt_angielski\bin\Debug\Projekt_angielski.exe
+C:\Users\Mateusz\C# Projects\Projektos\Projekt_angielski\Projekt_angielski\bin\Debug\Projekt_angielski.pdb
+C:\Users\Mateusz\C# Projects\Projektos\Projekt_angielski\Projekt_angielski\obj\Debug\Projekt_angielski.Properties.Resources.resources
+C:\Users\Mateusz\C# Projects\Projektos\Projekt_angielski\Projekt_angielski\obj\Debug\Projekt_angielski.csproj.GenerateResource.Cache
+C:\Users\Mateusz\C# Projects\Projektos\Projekt_angielski\Projekt_angielski\obj\Debug\Projekt_angielski.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\C# Projects\Projektos\Projekt_angielski\Projekt_angielski\obj\Debug\Projekt_angielski.exe
+C:\Users\Mateusz\C# Projects\Projektos\Projekt_angielski\Projekt_angielski\obj\Debug\Projekt_angielski.pdb
+C:\Users\Mateusz\C# Projects\Projektos\Projekt_angielski\Projekt_angielski\obj\Debug\Projekt_angielski.csprojAssemblyReference.cache
